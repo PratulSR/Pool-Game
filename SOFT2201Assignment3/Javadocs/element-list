@@ -1,0 +1,9 @@
+PoolGame
+PoolGame.Builder
+PoolGame.Config
+PoolGame.Factory
+PoolGame.Items
+PoolGame.Memento
+PoolGame.Observer
+PoolGame.Singleton
+PoolGame.Strategy
